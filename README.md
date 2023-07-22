@@ -2,7 +2,7 @@
 
 Hello everyone,
 
-Interestology is a mini project based on Front-end programming.It helps people to find thier interest and choose from the available resources to learn about thier choosen interest/hobby.
+HobbyHunt is a mini project based on Front-end programming.It helps people to find thier interest and choose from the available resources to learn about thier choosen interest/hobby.
 
 Languages : HTML , CSS, Javascript
 
